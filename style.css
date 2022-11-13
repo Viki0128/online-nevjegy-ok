@@ -9,7 +9,7 @@
   .profile-card {
     width: 650px;
     max-width: calc(100vw - 20px);
-    box-shadow:  rgba(0, 0, 0, 0.933) 10px 10px 80px;
+    box-shadow:  rgba(0, 0, 0, 0.882) 10px 10px 80px;
     background-color: rgba(255, 255, 255, 0.467);
     border-radius: 4px;
     margin-top: 30px;
