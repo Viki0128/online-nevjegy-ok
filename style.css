@@ -19,7 +19,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(/assets/hatter.jpg);
+    background: url(assets/hatter.jpg);
     background-size: cover;
     font-family: "Monotype Corsiva";
     font-size: 20px;
